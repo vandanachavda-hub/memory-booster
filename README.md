@@ -59,7 +59,7 @@ Memory Booster is a web-based brain-training application that helps users practi
 
 [View Memory Booster on GitHub](https://github.com/vandanachavda-hub/memory-booster)
 
-## ⚠️ hosting service required
+## ⚠️ Hosting Service Required
 
 This project uses PHP and MySQL. GitHub Pages alone cannot run the PHP backend or connect to the MySQL database. A PHP-supported hosting service is required to deploy the complete application online.
 
